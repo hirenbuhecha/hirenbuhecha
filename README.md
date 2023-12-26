@@ -1,7 +1,7 @@
 Hi 👋 My name is Hiren Buhecha
 ================================
 
-Educator and Back-End Developer
+Back-End Developer
 -------------------------------
 
 Back-End | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | Tailwind CSS | NodeJS | Cloud Jr. (AWS, Digital Ocean) | MySQL | MongoDB | JIRA
