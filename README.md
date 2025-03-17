@@ -8,7 +8,7 @@ Back-End | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | Tailwind C
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [hirenbuhecha007@gmail.com](mailto:hirenbuhecha007@gmail.com)
-* 🚀  I'm currently working on [Laravel, Vue, Tailwind etc.]
+* 🚀  I'm currently working on [PHP, Laravel, React.js, Node.js, Vue.js, Tailwind etc.]
 * 🧠  I'm learning NuxtJs & ExpressJs
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
 
