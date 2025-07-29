@@ -1,7 +1,7 @@
 Hi 👋 My name is Hiren Buhecha
 ================================
 
-Fullstack Developer
+A passionate Full stack developer from India <p align="left"> <img src="https://komarev.com/ghpvc/?username=hirenbuhecha&label=Profile%20views&color=0e75b6&style=flat" alt="Hiren Buhecha" /> </p>
 -------------------------------
 
 Back-End | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | Tailwind CSS | NodeJS | Cloud Jr. (AWS, Digital Ocean) | MySQL | MongoDB | JIRA
@@ -11,9 +11,9 @@ Back-End | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | Tailwind C
 * 🚀  I'm currently working on [PHP, Laravel, React.js, Node.js, Vue.js, Tailwind etc.]
 * 🧠  I'm learning NuxtJs & ExpressJs
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
+* ⚡ Fun fact **Most hated coding language : Perl**
 
-### Skills
-
+### Languages and Tools:
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -37,6 +37,13 @@ Back-End | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | Tailwind C
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
-### Socials
+<h3 align="left">Git Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirenbuhecha&show_icons=true&locale=en&layout=compact" alt="Hiren Buhecha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirenbuhecha&show_icons=true&locale=en" alt="Hiren Buhecha" /></p>
 
-<p align="left"> <a href="https://www.github.com/hirenbuhecha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+### Connect with me:
+
+<p align="left"> 
+<a href="https://www.github.com/hirenbuhecha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+</p>
+
