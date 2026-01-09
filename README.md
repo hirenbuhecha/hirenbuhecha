@@ -6,7 +6,6 @@ A passionate Full stack developer from India <p align="left"> <img src="https://
 
 Back-End | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | Tailwind CSS | NodeJS | Cloud Jr. (AWS, Digital Ocean) | MySQL | MongoDB | JIRA
 
-* 🌍  I'm based in India
 * ✉️  You can contact me at [hirenbuhecha007@gmail.com](mailto:hirenbuhecha007@gmail.com)
 * 🚀  I'm currently working on [PHP, Laravel, React.js, Node.js, Vue.js, Tailwind etc.]
 * 🧠  I'm learning NuxtJs & ExpressJs
