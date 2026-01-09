@@ -36,10 +36,6 @@ Back-End | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | Tailwind C
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
-<h3 align="left">Git Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirenbuhecha&show_icons=true&locale=en&layout=compact" alt="Hiren Buhecha" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirenbuhecha&show_icons=true&locale=en" alt="Hiren Buhecha" /></p>
-
 ### Connect with me:
 
 <p align="left"> 
